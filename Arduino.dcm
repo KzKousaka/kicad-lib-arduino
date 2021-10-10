@@ -30,4 +30,10 @@ K Arduino Sparkfun pro micro microcontroller module USB
 F https://www.sparkfun.com/products/12640
 $ENDCMP
 #
+$CMP Sparkfun_Pro_Micro_C_qwiic
+D Sparkfun Pro Micro
+K Arduino Sparkfun pro micro microcontroller module USB
+F https://www.sparkfun.com/products/12640
+$ENDCMP
+#
 #End Doc Library
